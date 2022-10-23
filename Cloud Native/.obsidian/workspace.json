@@ -4,16 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "af185efe3514a4d3",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "K8S/K8S 组件.md",
-            "mode": "source",
-            "source": false
+        "id": "71c7abd72dee76d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af185efe3514a4d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "K8S/K8S 组件.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2e13057f0d7487ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KVM/Linux 上安装虚拟机.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -31,7 +50,9 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -77,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "K8S/K8S 组件.md",
+                "file": "KVM/Linux 上安装虚拟机.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "K8S/K8S 组件.md",
+                "file": "KVM/Linux 上安装虚拟机.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "K8S/K8S 组件.md"
+                "file": "KVM/Linux 上安装虚拟机.md"
               }
             }
           }
@@ -128,7 +149,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "af185efe3514a4d3",
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "2e13057f0d7487ea",
   "lastOpenFiles": [
     "K8S/K8S 组件.md",
     "K8S/K8S 介绍.md",
