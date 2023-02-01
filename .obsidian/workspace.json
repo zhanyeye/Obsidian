@@ -1,0 +1,165 @@
+{
+  "main": {
+    "id": "b2a338d351fab329",
+    "type": "split",
+    "children": [
+      {
+        "id": "69d3fe9a64f07070",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f3b4514e31d30144",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "vim/01 Baby Steps.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "be4849fa5b988b2e",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9b76e9a327bee44",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff94df9b91fd07d2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8624de84c4563143",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5bc833abac6f85d3",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d70ecad7167f1229",
+    "type": "split",
+    "children": [
+      {
+        "id": "98448ed8346afa9a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85b80d3b7a4125b1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "vim/01 Baby Steps.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "71fdee136942a463",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "vim/01 Baby Steps.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fed3d869ed8d6f82",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9e2f082e5e3fa1c4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "vim/01 Baby Steps.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "canvas:Create new canvas": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "audio-recorder:开始/结束录音": false,
+      "workspaces:管理工作区布局": false
+    }
+  },
+  "active": "f3b4514e31d30144",
+  "lastOpenFiles": [
+    "vim/00 attachments/Vim01-课程大纲.pdf",
+    "vim/00 attachments/Pasted image 20230124173331.png",
+    "cloud-native/KVM/Linux 上安装虚拟机.md",
+    "cloud-native/K8S/K8S 组件.md",
+    "cloud-native/K8S/K8S 介绍.md",
+    "cloud-native/Docker/03 使用镜像.md",
+    "cloud-native/Docker/01 Docker 简介.md",
+    "design-pattern/01 设计模式简介.md",
+    "00 Inbox/2023-02-01.md",
+    "vim/01 Baby Steps.md"
+  ]
+}
